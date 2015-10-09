@@ -38,8 +38,8 @@ app_links:
     type: android
     app_name: Facebook
     package: com.facebook.katana
-datePublished: '2015-10-09T15:45:08.057Z'
-dateModified: '2015-10-09T15:44:47.247Z'
+datePublished: '2015-10-09T15:45:40.483Z'
+dateModified: '2015-10-09T15:45:08.057Z'
 authors: []
 publisher:
   name: Facebook
