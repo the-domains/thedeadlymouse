@@ -23,9 +23,9 @@ color:
     - '#000000'
     - '#a1ae6b'
   brandStrength: 0.8125
-  lightness: 0.6875
-  saturation: 0.125
-  rhythmicContrast: 0.25
+  lightness: 0.625
+  saturation: 0.3125
+  rhythmicContrast: 1
 purpose:
   - name: follow
     item: 0658f657-2269-45e9-8b49-3c558c414058
