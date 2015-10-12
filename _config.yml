@@ -23,8 +23,8 @@ color:
     - '#000000'
     - '#a1ae6b'
   brandStrength: 0
-  lightness: 0.625
-  saturation: 0.3125
+  lightness: 0.6875
+  saturation: 0.6875
   rhythmicContrast: 1
 purpose:
   - name: follow
