@@ -34,16 +34,16 @@ app_links:
   - url: 'http://www.youtube.com/watch?v=Bx2GE2A7Kdk&feature=applinks'
     type: web
 title: 'Goosebumps: The Game - Debut Trailer | PS4, PS3'
-datePublished: '2015-10-12T05:38:06.898Z'
-dateModified: '2015-10-12T05:37:57.773Z'
+datePublished: '2015-10-13T22:44:55.033Z'
+dateModified: '2015-10-12T05:43:39.832Z'
+sourcePath: _posts/2015-10-12-goosebumps-the-game-debut-trailer-or-ps4-ps3.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-10-12-goosebumps-the-game-debut-trailer-or-ps4-ps3.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
