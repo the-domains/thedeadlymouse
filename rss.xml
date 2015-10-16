@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[TDM Stuff]]></title>
         <description><![CDATA[TDM Stuff]]></description>
         <link>https://thegrid.ai/thedeadlymouse/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Oct 2015 03:38:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 17:40:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/thedeadlymouse/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[These Cartoons Perfectly Illustrate What It's Like To Be An Introvert]]></title>
+            <description><![CDATA[<article><h1>These Cartoons Perfectly Illustrate What It's Like To Be An Introvert</h1><p>Introverts may want to be alone, but the amount of people who identify as one certainly aren't. Artist Aaron Caycedo-Kimura is one of them. After hitting an artistic block (he's a painter and poet), he began to reflect on growing up as an introvert and how hard it was.</p><img src="http://images5.aplus.com/uc-up/80662767-e36e-4f0e-90e8-8f8294d01886/80662767-e36e-4f0e-90e8-8f8294d01886.crop_600x315_0,200.resize_1200x630.format_jpeg.inline_yes.jpg"></article>]]></description>
+            <link>http://aplus.com/a/what-its-like-being-an-introvert-comics?utm_content=inf_10_459_2&amp;c=2547&amp;utm_campaign=i2984&amp;utm_source=a86232&amp;ts_pid=2</link>
+            <guid isPermaLink="false">bb40b004-9588-4a91-98f9-c35f1d233a68</guid>
+            <pubDate>Fri, 16 Oct 2015 17:14:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trove Free Meownt Giveaway! - MMORPG.com]]></title>
             <description><![CDATA[<article><h1>Trove Free Meownt Giveaway! - MMORPG.com</h1><p>Admit it: You've always dreamed of saddling up a giant cat and leaping across the land, manes rippling in the breeze. Now, thanks to Trove - the free-to-play voxel adventure MMO - you'll be able to live out your deepest meme dreams, conquering the impossible and wrangling a sparkling cat mount under your command.</p><img src="http://images.mmorpg.com/images/contestimages/trove_meownt_header.jpg"></article>]]></description>
@@ -33,7 +39,7 @@
             <description><![CDATA[<article><h1>Moonrise Sunsetting!</h1><p>If you have ever played Moonrise, we got some bad news. Undead Labs reported today that they decided to cancel the game.  They said they just weren't making enough profit to keep the servers up and running. You can continue on playing it for now, they are even offering a Sunset Pack including 2,000 Gems and 10,000 gold. The servers will be shut down midnight December 31, 2015.  It is sad, it was a pretty cool little game. It was a Pokemon style game where you fought creatures and captured them so you could use them to capture other creatures.  It was awesome to have a Pokemon style MMORPG for the PC and iOS. But, you better get to playing it while you have the chance. Maybe if enough people show them they like Moonrise and willing to buy things in-game, maybe, just maybe they'll decide to keep it up and running.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0eb3b80-8429-4c49-8555-98ec4488ebcd.jpg"></article>]]></description>
             <link>https://thegrid.ai/thedeadlymouse/moonrise-sunsetting/index.html</link>
             <guid isPermaLink="false">6e7fba9b-a567-4a3a-aef2-1080cab6c2a1</guid>
-            <pubDate>Thu, 15 Oct 2015 03:35:38 GMT</pubDate>
+            <pubDate>Fri, 16 Oct 2015 17:39:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ant-Man!]]></title>
@@ -69,13 +75,6 @@
             <link>https://thegrid.ai/thedeadlymouse/minecraft-windows-10-edition/index.html</link>
             <guid isPermaLink="false">67caed96-afb3-44c3-a4c3-6f209942a18a</guid>
             <pubDate>Mon, 12 Oct 2015 00:46:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Grid]]></title>
-            <description><![CDATA[<article><h1>The Grid</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d44f22bf-8e82-460b-8734-bf5f710cee3b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/thedeadlymouse/878da63d-5930-454a-ac20-40a08d08db72/index.html</link>
-            <guid isPermaLink="false">878da63d-5930-454a-ac20-40a08d08db72</guid>
-            <pubDate>Sat, 10 Oct 2015 04:52:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
