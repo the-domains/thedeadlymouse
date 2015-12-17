@@ -1,6 +1,6 @@
 name: TheDeadlyMouse
 favicon: null
-layout_spectrum: 0.37295
+layout_spectrum: 1
 typography_spectrum: 0.04753
 title: TDM Stuff
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ea1919'
     - '#000000'
     - '#a1ae6b'
-  brandStrength: 0
+  brandStrength: 0.25
   lightness: 0.625
   saturation: 0.5625
   rhythmicContrast: 1
