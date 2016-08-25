@@ -1,7 +1,18 @@
+layout_spectrum: 0.17602868378162384
+typography_spectrum: 0.8466675193049014
+color:
+  brandColors:
+    - '#ecf21f'
+    - '#3b51d6'
+    - '#ea1919'
+    - '#000000'
+    - '#a1ae6b'
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.5625
+  rhythmicContrast: 1
 name: TheDeadlyMouse
 favicon: null
-layout_spectrum: 0.29515
-typography_spectrum: 0.04753
 title: TDM Stuff
 cta:
   domain: null
@@ -15,18 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ecf21f'
-    - '#3b51d6'
-    - '#ea1919'
-    - '#000000'
-    - '#a1ae6b'
-  brandStrength: 0.25
-  lightness: 0.625
-  saturation: 0.5625
-  rhythmicContrast: 1
-purpose:
-  - name: follow
-    item: 0658f657-2269-45e9-8b49-3c558c414058
-    url: null
+purpose: []
